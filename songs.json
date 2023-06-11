@@ -2,6 +2,46 @@
     "songs": [
         {
             "id": 1,
+            "name": "Dat Phonk",
+            "format": "FLAC 16Bit",
+            "size": "13.9mb",
+            "ext": ".flac",
+            "artist": "Kordhell",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/dat-phonk/dat-phonk.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/dat-phonk/cover.png"
+        },
+        {
+            "id": 2,
+            "name": "Memory Reboot",
+            "format": "FLAC 24Bit",
+            "size": "41.6mb",
+            "ext": ".flac",
+            "artist": "VOJ",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/memory-reboot/memory-reboot.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/memory-reboot/cover.png"
+        },
+        {
+            "id": 3,
+            "name": "Move Your Body",
+            "format": "FLAC 16Bit",
+            "size": "16.2mb",
+            "ext": ".flac",
+            "artist": "Ownboss",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/move-your-body/move-your-body.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/move-your-body/cover.png"
+        },
+        {
+            "id": 4,
+            "name": "PSYCHOGENESIS",
+            "format": "FLAC 16Bit",
+            "size": "17.3mb",
+            "ext": ".flac",
+            "artist": "KoruSe",
+            "link": "https://raw.githubusercontent.com/dstrn825/musics/main/psychogenesis/psychogenesis.flac",
+            "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/psychogenesis/cover.png"
+        },
+        {
+            "id": 5,
             "name": "Stereo Love",
             "format": "FLAC 16Bit",
             "size": "29.1mb",
@@ -11,7 +51,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/stereo-love/cover.png"
         },
         {
-            "id": 2,
+            "id": 6,
             "name": "AIRCRAFT",
             "format": "FLAC 16Bit",
             "size": "16.2mb",
@@ -21,7 +61,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aircraft/cover.png"
         },
         {
-            "id": 3,
+            "id": 7,
             "name": "DARK LADY",
             "format": "FLAC 16Bit",
             "size": "15.1mb",
@@ -31,7 +71,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/dark-lady/cover.png"
         },
         {
-            "id": 4,
+            "id": 8,
             "name": "ERROR",
             "format": "FLAC 24Bit",
             "size": "32.0mb",
@@ -41,7 +81,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/error/cover.png"
         },
         {
-            "id": 5,
+            "id": 9,
             "name": "METASTASIS",
             "format": "FLAC 16Bit",
             "size": "16.8mb",
@@ -51,7 +91,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/metastasis/cover.png"
         },
         {
-            "id": 6,
+            "id": 10,
             "name": "POOR",
             "format": "FLAC 16Bit",
             "size": "15.6mb",
@@ -61,7 +101,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/poor/cover.png"
         },
         {
-            "id": 7,
+            "id": 11,
             "name": "LUV BLADE",
             "format": "FLAC 16Bit",
             "size": "22.5mb",
@@ -71,7 +111,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/luv-blade/cover.png"
         },
         {
-            "id": 8,
+            "id": 12,
             "name": "MURDER PLOT",
             "format": "FLAC 16Bit",
             "size": "15.0mb",
@@ -81,7 +121,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/murder-plot/cover.png"
         },
         {
-            "id": 9,
+            "id": 13,
             "name": "RAVING ALL NIGHT",
             "format": "FLAC 16Bit",
             "size": "13.2mb",
@@ -91,7 +131,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/raving-all-night/cover.png"
         },
         {
-            "id": 10,
+            "id": 14,
             "name": "CHAIN$AW",
             "format": "FLAC 24Bit",
             "size": "25.1mb",
@@ -101,7 +141,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/chainsaw/cover.png"
         },
         {
-            "id": 11,
+            "id": 15,
             "name": "The Perfect Phonk",
             "format": "FLAC 16Bit",
             "size": "14.2mb",
@@ -111,7 +151,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/the-perfect-phonk/cover.png"
         },
         {
-            "id": 12,
+            "id": 16,
             "name": "she wnna",
             "format": "FLAC 16Bit",
             "size": "16.0mb",
@@ -121,7 +161,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/she-wnna/cover.png"
         },
         {
-            "id": 13,
+            "id": 17,
             "name": "leave me alone",
             "format": "FLAC 24Bit",
             "size": "58.6mb",
@@ -131,7 +171,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/leave-me-alone/cover.png"
         },
         {
-            "id": 14,
+            "id": 18,
             "name": "Never Say Goodbye",
             "format": "FLAC 24Bit",
             "size": "36.7mb",
@@ -141,7 +181,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/never-say-goodbye/cover.png"
         },
         {
-            "id": 15,
+            "id": 19,
             "name": "Aomine Daiki",
             "format": "FLAC 16Bit",
             "size": "32.2mb",
@@ -151,7 +191,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aomine-daiki/cover.png"
         },
         {
-            "id": 16,
+            "id": 20,
             "name": "lolol",
             "format": "FLAC 24Bit",
             "size": "6.7mb",
@@ -161,7 +201,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/lolol/cover.png"
         },
         {
-            "id": 17,
+            "id": 21,
             "name": "Thot K",
             "format": "FLAC 16Bit",
             "size": "17.1mb",
@@ -171,7 +211,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/thot-k/cover.png"
         },
         {
-            "id": 18,
+            "id": 22,
             "name": "super sonic (you're too slow)",
             "format": "FLAC 16Bit",
             "size": "8.9mb",
@@ -181,7 +221,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/youre-too-slow/cover.png"
         },
         {
-            "id": 19,
+            "id": 23,
             "name": "COMBAT",
             "format": "FLAC 16Bit",
             "size": "20.8mb",
@@ -191,7 +231,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/combat/cover.png"
         },
         {
-            "id": 20,
+            "id": 24,
             "name": "REDCORRUPTION",
             "format": "FLAC 24Bit",
             "size": "27.0mb",
@@ -201,7 +241,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/redcorruption/cover.png"
         },
         {
-            "id": 21,
+            "id": 25,
             "name": "D R I V E",
             "format": "FLAC 24Bit",
             "size": "43.1mb",
@@ -211,7 +251,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/D-R-I-V-E/cover.png"
         },
         {
-            "id": 22,
+            "id": 26,
             "name": "After Dark",
             "format": "FLAC 16Bit",
             "size": "26.4mb",
@@ -221,7 +261,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/after-dark/cover.png"
         },
         {
-            "id": 23,
+            "id": 27,
             "name": "\u041d\u0435 \u0432\u0435\u0440\u043d\u0443\u0442\u044c",
             "format": "FLAC 16Bit",
             "size": "20.1mb",
@@ -231,7 +271,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/\u041d\u0435-\u0432\u0435\u0440\u043d\u0443\u0442\u044c/cover.png"
         },
         {
-            "id": 24,
+            "id": 28,
             "name": "\u0420\u043e\u043c\u0430\u0448\u043a\u0438",
             "format": "FLAC 16Bit",
             "size": "17.0mb",
@@ -241,7 +281,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/\u0420\u043e\u043c\u0430\u0448\u043a\u0438/cover.png"
         },
         {
-            "id": 25,
+            "id": 29,
             "name": "\u041d\u041e\u0427\u042c\u042e",
             "format": "FLAC 16Bit",
             "size": "15.5mb",
@@ -251,7 +291,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/\u041d\u041e\u0427\u042c\u042e/cover.png"
         },
         {
-            "id": 26,
+            "id": 30,
             "name": "BAKI",
             "format": "FLAC 16Bit",
             "size": "15.0mb",
@@ -261,7 +301,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/baki/cover.png"
         },
         {
-            "id": 27,
+            "id": 31,
             "name": "NEKODRIFT 2",
             "format": "FLAC 24Bit",
             "size": "46.3mb",
@@ -271,7 +311,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/nekodrift-2/cover.png"
         },
         {
-            "id": 28,
+            "id": 32,
             "name": "popstar",
             "format": "FLAC 16Bit",
             "size": "18.4mb",
@@ -281,7 +321,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/popstar/cover.png"
         },
         {
-            "id": 29,
+            "id": 33,
             "name": "t0xic w/xaxanity",
             "format": "FLAC 24Bit",
             "size": "42.1mb",
@@ -291,7 +331,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/t0xic/cover.png"
         },
         {
-            "id": 30,
+            "id": 34,
             "name": "SPIT IN MY FACE!",
             "format": "FLAC 24Bit",
             "size": "28.6mb",
@@ -301,7 +341,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/spit-in-my-face/cover.png"
         },
         {
-            "id": 31,
+            "id": 35,
             "name": "WORTH NOTHING",
             "format": "FLAC 16Bit",
             "size": "15.4mb",
@@ -311,7 +351,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/worth-nothing/cover.png"
         },
         {
-            "id": 32,
+            "id": 36,
             "name": "crazy story pt3",
             "format": "FLAC 16Bit",
             "size": "35.2mb",
@@ -321,7 +361,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/crazy-story-pt3/cover.png"
         },
         {
-            "id": 33,
+            "id": 37,
             "name": "want u like a charm bracelet",
             "format": "FLAC 16Bit",
             "size": "38.1mb",
@@ -331,7 +371,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/want-u-like-a-charm-bracelet/cover.png"
         },
         {
-            "id": 34,
+            "id": 38,
             "name": "snowfall",
             "format": "FLAC 16Bit",
             "size": "7.0mb",
@@ -341,7 +381,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/snowfall/cover.png"
         },
         {
-            "id": 35,
+            "id": 39,
             "name": "TWXSIDES",
             "format": "FLAC 24Bit",
             "size": "29.4mb",
@@ -351,7 +391,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/twxsides/cover.png"
         },
         {
-            "id": 36,
+            "id": 40,
             "name": "WARNING",
             "format": "FLAC 16Bit",
             "size": "15.8mb",
@@ -361,7 +401,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/warning/cover.png"
         },
         {
-            "id": 37,
+            "id": 41,
             "name": "GRIEF",
             "format": "FLAC 16Bit",
             "size": "15.5mb",
@@ -371,7 +411,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/grief/cover.png"
         },
         {
-            "id": 38,
+            "id": 42,
             "name": "twirling",
             "format": "FLAC 24Bit",
             "size": "14.3mb",
@@ -381,7 +421,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/twirling/cover.png"
         },
         {
-            "id": 39,
+            "id": 43,
             "name": "wANNA hANG!",
             "format": "FLAC 16Bit",
             "size": "22.4mb",
@@ -391,7 +431,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/wanna-hang/cover.png"
         },
         {
-            "id": 40,
+            "id": 44,
             "name": "NXVA",
             "format": "FLAC 16Bit",
             "size": "14.8mb",
@@ -401,7 +441,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/NXVA/cover.png"
         },
         {
-            "id": 41,
+            "id": 45,
             "name": "dead inside",
             "format": "FLAC 16Bit",
             "size": "12.2mb",
@@ -411,7 +451,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/dead-inside/cover.png"
         },
         {
-            "id": 42,
+            "id": 46,
             "name": "\u0422\u0435\u0441\u043d\u043e",
             "format": "FLAC 16Bit",
             "size": "14.6mb",
@@ -421,7 +461,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/\u0422\u0435\u0441\u043d\u043e/cover.png"
         },
         {
-            "id": 43,
+            "id": 47,
             "name": "See U",
             "format": "FLAC 16Bit",
             "size": "17.1mb",
@@ -431,7 +471,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/see-u/cover.png"
         },
         {
-            "id": 44,
+            "id": 48,
             "name": "KILL BILL",
             "format": "FLAC 16Bit",
             "size": "25.9mb",
@@ -441,7 +481,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/kill-bill/cover.png"
         },
         {
-            "id": 45,
+            "id": 49,
             "name": "Kurxxed Emeraldz",
             "format": "FLAC 16Bit",
             "size": "11.2mb",
@@ -451,7 +491,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/kurxxed-emeraldz/cover.png"
         },
         {
-            "id": 46,
+            "id": 50,
             "name": "tonight",
             "format": "FLAC 16Bit",
             "size": "24.6mb",
@@ -461,7 +501,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/tonight/cover.png"
         },
         {
-            "id": 47,
+            "id": 51,
             "name": "a new kind of love",
             "format": "FLAC 16Bit",
             "size": "25.5mb",
@@ -471,7 +511,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/a-new-kind-of-love/cover.png"
         },
         {
-            "id": 48,
+            "id": 52,
             "name": "meaningless time",
             "format": "FLAC 24Bit",
             "size": "32.8mb",
@@ -481,7 +521,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/meaningless-time/cover.png"
         },
         {
-            "id": 49,
+            "id": 53,
             "name": "AGGRESSIVE",
             "format": "FLAC 16Bit",
             "size": "18.0mb",
@@ -491,7 +531,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/aggressive/cover.png"
         },
         {
-            "id": 50,
+            "id": 54,
             "name": "Clubbed To Death",
             "format": "FLAC 24Bit",
             "size": "66.8mb",
@@ -501,7 +541,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/clubbed-to-death/cover.png"
         },
         {
-            "id": 51,
+            "id": 55,
             "name": "Rays of Serenity",
             "format": "FLAC 16Bit",
             "size": "12.9mb",
@@ -511,7 +551,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/rays-of-serenity/cover.png"
         },
         {
-            "id": 52,
+            "id": 56,
             "name": "i hurt myself",
             "format": "FLAC 16Bit",
             "size": "13.2mb",
@@ -521,7 +561,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/i-hurt-myself/cover.png"
         },
         {
-            "id": 53,
+            "id": 57,
             "name": "Kurxxed Lov3",
             "format": "FLAC 16Bit",
             "size": "12.9mb",
@@ -531,7 +571,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/kurxxed-lov3/cover.png"
         },
         {
-            "id": 54,
+            "id": 58,
             "name": "Million",
             "format": "FLAC 16Bit",
             "size": "15.3mb",
@@ -541,7 +581,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/million/cover.png"
         },
         {
-            "id": 55,
+            "id": 59,
             "name": "molly queen",
             "format": "FLAC 16Bit",
             "size": "29.0mb",
@@ -551,7 +591,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/molly-queen/cover.png"
         },
         {
-            "id": 56,
+            "id": 60,
             "name": "Sea of Problems",
             "format": "FLAC 16Bit",
             "size": "11.9mb",
@@ -561,7 +601,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/sea-of-problems/cover.png"
         },
         {
-            "id": 57,
+            "id": 61,
             "name": "FUNERAL",
             "format": "FLAC 16Bit",
             "size": "15.2mb",
@@ -571,7 +611,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/funeral/cover.png"
         },
         {
-            "id": 58,
+            "id": 62,
             "name": "Mary Jane",
             "format": "FLAC 16Bit",
             "size": "18.2mb",
@@ -581,7 +621,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/mary-jane/cover.png"
         },
         {
-            "id": 59,
+            "id": 63,
             "name": "cry of emptiness",
             "format": "FLAC 24Bit",
             "size": "59.4mb",
@@ -591,7 +631,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/cry-of-emptiness/cover.png"
         },
         {
-            "id": 60,
+            "id": 64,
             "name": "143 ways to lose urself",
             "format": "FLAC 16Bit",
             "size": "17.9mb",
@@ -601,7 +641,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/143-ways-to-lose-urself/cover.png"
         },
         {
-            "id": 61,
+            "id": 65,
             "name": "Never Let Go (Of Me)",
             "format": "FLAC 16Bit",
             "size": "34.3mb",
@@ -611,7 +651,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/never-let-go-(of-me)/cover.png"
         },
         {
-            "id": 62,
+            "id": 66,
             "name": "whippetzZ",
             "format": "FLAC 16Bit",
             "size": "13.5mb",
@@ -621,7 +661,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/whippetzZ/cover.png"
         },
         {
-            "id": 63,
+            "id": 67,
             "name": "untitled (prod. northeast lights x shinju)",
             "format": "FLAC 16Bit",
             "size": "35.0mb",
@@ -631,7 +671,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/untitled/cover.png"
         },
         {
-            "id": 64,
+            "id": 68,
             "name": "soup",
             "format": "FLAC 16Bit",
             "size": "35.8mb",
@@ -641,7 +681,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/soup/cover.png"
         },
         {
-            "id": 65,
+            "id": 69,
             "name": "\u0425\u043e\u043b\u043e\u0434\u043d\u043e",
             "format": "FLAC 16Bit",
             "size": "21.5mb",
@@ -651,7 +691,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/\u0425\u043e\u043b\u043e\u0434\u043d\u043e/cover.png"
         },
         {
-            "id": 66,
+            "id": 70,
             "name": "Internet bitch P*Light Remix",
             "format": "FLAC 16Bit",
             "size": "35.6mb",
@@ -661,7 +701,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/internet-bitch/cover.png"
         },
         {
-            "id": 67,
+            "id": 71,
             "name": "O ya su mi",
             "format": "FLAC 24Bit",
             "size": "61.1mb",
@@ -671,7 +711,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/O-ya-su-mi/cover.png"
         },
         {
-            "id": 68,
+            "id": 72,
             "name": "AUTOPILOT",
             "format": "FLAC 24Bit",
             "size": "59.6mb",
@@ -681,7 +721,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/autopilot/cover.png"
         },
         {
-            "id": 69,
+            "id": 73,
             "name": "noodles",
             "format": "FLAC 16Bit",
             "size": "35.3mb",
@@ -691,7 +731,7 @@
             "cover": "https://raw.githubusercontent.com/dstrn825/musics/main/noodles/cover.png"
         },
         {
-            "id": 70,
+            "id": 74,
             "name": "\u0440\u0438\u0441\u0443\u044e \u043a\u0440\u043e\u0432\u044c\u044e",
             "format": "FLAC 16Bit",
             "size": "19.0mb",
