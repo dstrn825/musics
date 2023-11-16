@@ -1,1 +1,1 @@
-# repo to host music files for dstrn.xyz
+# old outdated repository to host music files for dstrn.xyz
